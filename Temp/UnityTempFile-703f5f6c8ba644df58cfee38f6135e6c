@@ -1,0 +1,345 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:6
+-out:'Temp/Assembly-CSharp.dll'
+-unsafe
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/Managed/UnityEditor.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/Managed/UnityEngine.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll'
+-r:'Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.1-1.0.56-Editor.dll'
+-r:'Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.1-1.0.56-Runtime.dll'
+-r:'/Applications/Unity 2017_2/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll'
+-r:'/Applications/Unity 2017_2/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll'
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_1_1
+-define:UNITY_2017_1
+-define:UNITY_2017
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:UNITY_ANALYTICS
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_PVR_GI
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_RUNTIME_NAVMESH_BUILDING
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_DIRECTOR
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_TIMELINE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:ENABLE_NATIVE_ARRAY
+-define:ENABLE_SPRITE_MASKING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:ENABLE_MONO_BDWGC
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_VIDEO
+-define:ENABLE_RMGUI
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_STYLE_SHEETS
+-define:UNITY_STANDALONE_OSX
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GAMECENTER
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_VR
+-define:ENABLE_MODULAR_UNITYENGINE_ASSEMBLIES
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:NET_4_6
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_OSX
+-define:ENABLE_NATIVE_ARRAY_CHECKS
+-define:UNITY_TEAM_LICENSE
+'Assets/LaunchMode.cs'
+'Assets/Lesson/Scripts/Commands/GenerateNewGameCommand.cs'
+'Assets/Lesson/Scripts/Commands/MakeTurnCommand.cs'
+'Assets/Lesson/Scripts/Contexts/AppContext.cs'
+'Assets/Lesson/Scripts/Contexts/AppRoot.cs'
+'Assets/Lesson/Scripts/Models/Data/CardModel.cs'
+'Assets/Lesson/Scripts/Models/Data/CardType.cs'
+'Assets/Lesson/Scripts/Models/Data/DataScriptableObject.cs'
+'Assets/Lesson/Scripts/Models/Data/TraitModel.cs'
+'Assets/Lesson/Scripts/Models/State/GameState.cs'
+'Assets/Lesson/Scripts/Models/State/Serializer.cs'
+'Assets/Lesson/Scripts/Services/DataLoaderService.cs'
+'Assets/Scripts/Client/IServerConnector.cs'
+'Assets/Scripts/Client/ServerConnector.cs'
+'Assets/Scripts/Server/Server.cs'
+'Assets/Scripts/Server/ServerEchoTest.cs'
+'Assets/Scripts/Server/SimpleServerGUI.cs'
+'Assets/Scripts/Server/UnityNetworkingServerServer.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/controller/GameEvent.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/controller/GameOverCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/controller/RemoveSocialContextCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/controller/ReplayGameCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/controller/ShipDestroyedCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/controller/startupSequence/StartAppCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/controller/startupSequence/StartGameCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/controller/UpdateScoreCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/GameContext.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/GameRoot.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/model/IScore.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/model/ScoreModel.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/util/GameLoop.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/util/IGameTimer.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/view/ClickDetector.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/view/EnemyMediator.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/view/EnemyView.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/view/ScoreboardMediator.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/view/ScoreboardView.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/view/ShipMediator.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/game/view/ShipView.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/main/controller/GameCompleteCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/main/controller/LoadSceneCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/main/controller/MainEvent.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/main/controller/StartCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/main/MainContext.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/main/MainRoot.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/controller/CreateFriendListCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/controller/CreateUserTileCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/controller/GameCompleteCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/controller/LoadSceneCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/controller/RemoveContextCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/controller/SocialEvent.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/controller/StartCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/service/FacebookService.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/service/GoogleService.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/service/ISocialService.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/service/UserVO.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/SocialContext.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/SocialRoot.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/view/AwardView.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/view/AwardViewMediator.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/view/UserTileMediator.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/multiplecontexts/social/view/UserTileView.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/controller/CallWebServiceCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/controller/ExampleEvent.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/controller/StartCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/model/ExampleModel.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/model/IExampleModel.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/MyFirstContext.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/MyFirstProjectRoot.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/service/ExampleService.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/service/IExampleService.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/view/ClickDetector.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/view/ExampleMediator.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/myfirstproject/view/ExampleView.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/controller/CallWebServiceCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/controller/StartCommand.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/model/ExampleModel.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/model/IExampleModel.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/service/ExampleService.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/service/IExampleService.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/signal/CallWebServiceSignal.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/signal/FulfillWebServiceRequestSignal.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/signal/ScoreChangedSignal.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/signal/StartSignal.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/SignalsContext.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/SignalsRoot.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/view/ClickDetector.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/view/ExampleMediator.cs'
+'Assets/StrangeIoC/examples/Assets/scripts/signalsproject/view/ExampleView.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/api/CommandExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/api/CommandKeys.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/api/ICommand.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/api/ICommandBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/api/ICommandBinding.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/api/IPooledCommandBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/impl/Command.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/impl/CommandBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/impl/CommandBinding.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/impl/CommandException.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/impl/EventCommand.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/impl/EventCommandBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/command/impl/SignalCommandBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/api/ContextEvent.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/api/ContextExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/api/ContextKeys.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/api/ContextStartupFlags.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/api/IContext.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/api/IContextView.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/api/ICrossContextCapable.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/impl/Context.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/impl/ContextException.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/impl/ContextView.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/impl/CrossContext.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/impl/CrossContextBridge.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/context/impl/MVCSContext.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/api/DispatcherExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/api/IDispatcher.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/api/ITriggerable.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/api/ITriggerProvider.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/eventdispatcher/api/EventCallbackType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/eventdispatcher/api/EventDispatcherExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/eventdispatcher/api/IEvent.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/eventdispatcher/api/IEventBinding.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/eventdispatcher/api/IEventDispatcher.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/eventdispatcher/impl/EventBinding.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/eventdispatcher/impl/EventDispatcher.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/eventdispatcher/impl/EventDispatcherException.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/eventdispatcher/impl/TmEvent.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/dispatcher/impl/DispatcherException.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/implicitBind/api/IImplicitBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/implicitBind/impl/ImplicitBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/implicitBind/ImplementorAttribute.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/api/ICrossContextInjectionBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/api/IInjectionBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/api/IInjectionBinding.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/api/IInjector.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/api/IInjectorFactory.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/api/InjectionBindingScope.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/api/InjectionBindingType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/api/InjectionExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/impl/CrossContextInjectionBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/impl/InjectionBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/impl/InjectionBinding.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/impl/InjectionException.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/impl/Injector.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/impl/InjectorFactory.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/injector/InjectAttribute.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/api/IMediationBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/api/IMediationBinding.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/api/IMediator.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/api/IView.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/api/MediationEvent.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/api/MediationExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/impl/EventMediator.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/impl/EventView.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/impl/MediationBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/impl/MediationBinding.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/impl/MediationException.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/impl/Mediator.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/mediation/impl/View.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/pool/api/IPool.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/pool/api/IPoolable.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/pool/api/PoolExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/pool/api/PoolInflationType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/pool/api/PoolOverflowBehavior.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/pool/impl/Pool.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/pool/impl/PoolException.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/reflector/api/IReflectedClass.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/reflector/api/IReflectionBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/reflector/api/ReflectionExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/reflector/impl/ReflectedClass.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/reflector/impl/ReflectionBinder.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/reflector/impl/ReflectionException.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/sequencer/api/ISequenceBinding.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/sequencer/api/ISequenceCommand.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/sequencer/api/ISequencer.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/sequencer/api/SequencerExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/sequencer/impl/EventSequenceCommand.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/sequencer/impl/EventSequencer.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/sequencer/impl/SequenceBinding.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/sequencer/impl/SequenceCommand.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/sequencer/impl/Sequencer.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/sequencer/impl/SequencerException.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/signal/api/IBaseSignal.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/signal/api/SignalExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/signal/impl/BaseSignal.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/signal/impl/Signal.cs'
+'Assets/StrangeIoC/scripts/strange/extensions/signal/impl/SignalException.cs'
+'Assets/StrangeIoC/scripts/strange/framework/api/BinderExceptionType.cs'
+'Assets/StrangeIoC/scripts/strange/framework/api/BindingConst.cs'
+'Assets/StrangeIoC/scripts/strange/framework/api/BindingConstraintType.cs'
+'Assets/StrangeIoC/scripts/strange/framework/api/IBinder.cs'
+'Assets/StrangeIoC/scripts/strange/framework/api/IBinding.cs'
+'Assets/StrangeIoC/scripts/strange/framework/api/IInstanceProvider.cs'
+'Assets/StrangeIoC/scripts/strange/framework/api/IManagedList.cs'
+'Assets/StrangeIoC/scripts/strange/framework/api/ISemiBinding.cs'
+'Assets/StrangeIoC/scripts/strange/framework/impl/Binder.cs'
+'Assets/StrangeIoC/scripts/strange/framework/impl/BinderException.cs'
+'Assets/StrangeIoC/scripts/strange/framework/impl/Binding.cs'
+'Assets/StrangeIoC/scripts/strange/framework/impl/SemiBinding.cs'
+'Assets/StrangeIoC/scripts/strange/ReadMe.cs'
+'Assets/TestEchoClient.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs'
+'Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.5/System.Runtime.Serialization.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.5/System.Xml.Linq.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.5/UnityScript.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.5/UnityScript.Lang.dll'
+-r:'/Applications/Unity 2017_2/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.5/Boo.Lang.dll'
+-sdk:4.6

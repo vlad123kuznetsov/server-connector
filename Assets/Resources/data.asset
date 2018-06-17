@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39c4e8fe5a704333b2aa773b3e06865f, type: 3}
+  m_Name: data
+  m_EditorClassIdentifier: 
+  traits:
+  - id: 
+    additionalHp: 10
+    additionalDefense: 10
+  - id: 
+    additionalHp: 5
+    additionalDefense: 5
+  cardModel:
+  - texture: {fileID: 0}
+    defense: 10
+    hp: 100
+    criticalChance: 0
+    id: Orge
+    name: Orge
+    maxDmg: 10
+    minDmg: 30
+    type: 1
+  - texture: {fileID: 0}
+    defense: 10
+    hp: 100
+    criticalChance: 50
+    id: Babushka
+    name: Babushka
+    maxDmg: 100
+    minDmg: 100
+    type: 0
+  - texture: {fileID: 0}
+    defense: 0
+    hp: 10
+    criticalChance: 0
+    id: Simple
+    name: Simple
+    maxDmg: 5
+    minDmg: 10
+    type: 1

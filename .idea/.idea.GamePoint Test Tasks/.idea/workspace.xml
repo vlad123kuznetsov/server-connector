@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fad50ea1-84d6-4ce1-a680-4b168c093283" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RoomsDataLoadedSignal.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Signals/RoomsDataLoadedSignal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1516206539367" expanded="false" signature="6:116" ph="..." />
+                <marker date="1516206539367" expanded="true" signature="135:193" ph="{...}" />
+                <marker date="1516206539367" expanded="true" signature="182:191" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FetchRoomsCommands.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Commands/FetchRoomsCommands.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="35" />
+              <folding>
+                <marker date="1516322860934" expanded="false" signature="6:225" ph="..." />
+                <marker date="1516322860934" expanded="true" signature="245:1974" ph="{...}" />
+                <marker date="1516322860934" expanded="true" signature="249:397" ph="/// Load rooms data from server and move to Data model. Server url stored in config passed as command line argume ... " />
+                <marker date="1516322860934" expanded="true" signature="440:1972" ph="{...}" />
+                <marker date="1516322860934" expanded="true" signature="720:1969" ph="{...}" />
+                <marker date="1516322860934" expanded="true" signature="866:976" ph="{...}" />
+                <marker date="1516322860934" expanded="true" signature="984:1090" ph="{...}" />
+                <marker date="1516322860934" expanded="true" signature="1242:1723" ph="{...}" />
+                <marker date="1516322860934" expanded="true" signature="1314:1380" ph="{...}" />
+                <marker date="1516322860934" expanded="true" signature="1516:1584" ph="{...}" />
+                <marker date="1516322860934" expanded="true" signature="1761:1962" ph="{...}" />
+                <marker date="1516322860934" expanded="true" signature="1866:1917" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CacheService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Services/CacheService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <marker date="1516323702699" expanded="false" signature="6:183" ph="..." />
+                <marker date="1516323702699" expanded="true" signature="215:366" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="416:2642" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="561:882" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="767:879" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="921:1020" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="977:1017" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1076:1311" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1225:1277" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1355:1423" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1456:1506" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1536:1709" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1573:1686" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1626:1682" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1749:1871" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1791:1835" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1916:2213" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1937:1968" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="1975:2148" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="2077:2142" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="2170:2208" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="2245:2640" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="2266:2551" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="2366:2406" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="2668:2688" ph="{...}" />
+                <marker date="1516323702699" expanded="true" signature="2712:2775" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoomViewItem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/RoomViewItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+              <folding>
+                <marker date="1516536705319" expanded="false" signature="6:152" ph="..." />
+                <marker date="1516536705319" expanded="true" signature="169:1262" ph="{...}" />
+                <marker date="1516536705319" expanded="true" signature="227:1260" ph="{...}" />
+                <marker date="1516536705319" expanded="true" signature="502:527" ph="{...}" />
+                <marker date="1516536705319" expanded="true" signature="571:1078" ph="{...}" />
+                <marker date="1516536705319" expanded="true" signature="831:971" ph="{...}" />
+                <marker date="1516536705319" expanded="true" signature="1129:1257" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperGameViewIem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/SuperGameViewIem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="11" column="56" lean-forward="false" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+              <folding>
+                <marker date="1516536718820" expanded="false" signature="6:186" ph="..." />
+                <marker date="1516536718820" expanded="true" signature="202:724" ph="{...}" />
+                <marker date="1516536718820" expanded="true" signature="262:722" ph="{...}" />
+                <marker date="1516536718820" expanded="true" signature="484:719" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rooms.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Rooms.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="21" />
+              <folding>
+                <marker date="1516312687484" expanded="true" signature="49:1518" ph="{...}" />
+                <marker date="1516312687484" expanded="true" signature="75:111" ph="{...}" />
+                <marker date="1516312687484" expanded="true" signature="165:333" ph="{...}" />
+                <marker date="1516312687484" expanded="true" signature="382:489" ph="{...}" />
+                <marker date="1516312687484" expanded="true" signature="529:850" ph="{...}" />
+                <marker date="1516312687484" expanded="true" signature="855:915" ph="[...]" />
+                <marker date="1516312687484" expanded="true" signature="947:956" ph="{...}" />
+                <marker date="1516312687484" expanded="true" signature="1016:1214" ph="{...}" />
+                <marker date="1516312687484" expanded="true" signature="1264:1516" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JoinRoomPopup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/JoinRoomPopup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+              <folding>
+                <marker date="1516536728813" expanded="false" signature="6:67" ph="..." />
+                <marker date="1516536728813" expanded="true" signature="83:389" ph="{...}" />
+                <marker date="1516536728813" expanded="true" signature="128:387" ph="{...}" />
+                <marker date="1516536728813" expanded="true" signature="257:381" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppContext.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Contexts/AppContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+              <folding>
+                <marker date="1516536664431" expanded="false" signature="6:289" ph="..." />
+                <marker date="1516536664431" expanded="true" signature="329:2437" ph="{...}" />
+                <marker date="1516536664431" expanded="true" signature="387:425" ph="{...}" />
+                <marker date="1516536664431" expanded="true" signature="516:554" ph="{...}" />
+                <marker date="1516536664431" expanded="true" signature="626:697" ph="{...}" />
+                <marker date="1516536664431" expanded="true" signature="828:1012" ph="{...}" />
+                <marker date="1516536664431" expanded="true" signature="1111:1277" ph="{...}" />
+                <marker date="1516536664431" expanded="true" signature="1322:2435" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadImageService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Signals/LoadImageService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <marker date="1516210757511" expanded="false" signature="6:116" ph="..." />
+                <marker date="1516210757511" expanded="true" signature="135:232" ph="{...}" />
+                <marker date="1516210757511" expanded="true" signature="223:230" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoomsView.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/RoomsView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <marker date="1516537785995" expanded="false" signature="6:176" ph="..." />
+                <marker date="1516537785995" expanded="true" signature="192:2158" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="230:1803" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="600:696" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="724:789" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="830:1040" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="859:1036" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="1092:1800" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="1232:1796" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="1264:1521" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="1548:1791" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="1864:2156" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="2023:2083" ph="{...}" />
+                <marker date="1516537785995" expanded="true" signature="2115:2153" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gettem</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/JoinRoomPopup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/RoomsView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Rooms.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/scripts/strange/extensions/mediation/impl/View.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Contexts/AppContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Contexts/AppRoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/scripts/strange/extensions/mediation/impl/Mediator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Signals/LoadImageService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Signals/RoomsDataLoadedSignal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Signals/ImageLoadedSignal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Signals/Popups.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Commands/FetchRoomsCommands.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Config.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Commands/DownloadimageByUrlCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/scripts/strange/extensions/signal/impl/Signal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Signals/RoomsFetchedSignal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/AsyncImageView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/TargetMediator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/AsyncImageMediator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/AsyncImageData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/ViewWithModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Signals/ShowPopupSignal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/ProgressBarWithText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/scripts/strange/extensions/injector/impl/Injector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/CustomSizeFitter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Services/CacheService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/PopupView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/RoomViewItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/PopupViewMediator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/SuperGameViewIem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/PopupPair.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/BasePopup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/BasePopupMediator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Workers/IBackgroundWorker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Workers/RoomsListUpdateWorker.cs" />
+        <option value="$PROJECT_DIR$/../work/mobile/projects/social_classic/Assets/EngineEnot/Enot/Profiles/FunnyReelsProfile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Signals/RoomsDataLoadedSignal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Library/StrangeIoC/examples/Assets/scripts/signalsproject/SignalsRoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Signals/LoadImageService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Contexts/AppRoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/Config.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Signals/ImageLoadedSignal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Commands/DownloadimageByUrlCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/AsyncImageMediator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/Constants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/AsyncImageView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/PopupViewMediator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/BasePopup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/PopupView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Commands/FetchRoomsCommands.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Services/CacheService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/RoomViewItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/SuperGameViewIem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/JoinRoomPopup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/ProgressBarWithText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/RoomsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Contexts/AppContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/Rooms.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="733" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GamePoint Test Tasks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GamePoint Test Tasks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GamePoint Test Tasks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GamePoint Test Tasks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GamePoint Test Tasks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Commands" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GamePoint Test Tasks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Contexts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GamePoint Test Tasks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GamePoint Test Tasks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GamePoint Test Tasks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Signals" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="GamePoint Test Tasks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="View" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="progre&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/ProgressBarWithText.cs&#10;join&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/JoinRoomPopup.cs&#10;superg&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/SuperGameViewIem.cs&#10;downl&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/Commands/DownloadimageByUrlCommand.cs&#10;asyncim&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/AsyncImageView.cs&#10;cache&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/Services/CacheService.cs&#10;fetchro&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/Commands/FetchRoomsCommands.cs&#10;appco&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/Contexts/AppContext.cs&#10;roomsvi&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/RoomsView.cs&#10;fetchco&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/Commands/FetchRoomsCommands.cs&#10;popupvi&#9;null&#9;null&#10;basepo&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/BasePopup.cs&#10;popupview&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/PopupViewMediator.cs&#10;popup&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/PopupView.cs&#10;joinro&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/JoinRoomPopup.cs&#10;fetched&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/Signals/RoomsFetchedSignal.cs&#10;rooms&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/RoomsView.cs&#10;game&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/SuperGameViewIem.cs&#10;const&#9;null&#9;null&#10;RoomViewItem&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/RoomViewItem.cs&#10;asyncme&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/AsyncImageMediator.cs&#10;roomview&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/RoomViewItem.cs&#10;room&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/RoomsView.cs&#10;asyncima&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/AsyncImageMediator.cs&#10;async&#9;null&#9;null&#10;roomsviewme&#9;null&#9;null&#10;Image&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/Commands/DownloadimageByUrlCommand.cs&#10;config&#9;null&#9;null&#10;com&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/Commands/FetchRoomsCommands.cs&#10;roomvi&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/RoomViewItem.cs&#10;data&#9;null&#9;null&#10;Joinroo&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/View/JoinRoomPopup.cs&#10;progress&#9;null&#9;null&#10;фззкщ&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Scripts/Contexts/AppRoot.cs&#10;signalro&#9;null&#9;null&#10;appro&#9;null&#9;null&#10;context&#9;FILE&#9;file:///Users/vlad/Documents/GamePoint Test Tasks/Assets/Library/StrangeIoC/examples/Assets/scripts/signalsproject/SignalsContext.cs&#10;basepop&#9;null&#9;null&#10;popupro&#9;null&#9;null&#10;loadima&#9;null&#9;null&#10;Asyncima&#9;null&#9;null&#10;signal&#9;null&#9;null&#10;Caches&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fad50ea1-84d6-4ce1-a680-4b168c093283" name="Default" comment="" />
+      <created>1515861764617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515861764617</updated>
+      <workItem from="1515861768379" duration="31468000" />
+      <workItem from="1516536645303" duration="1101000" />
+      <workItem from="1516815461053" duration="752000" />
+      <workItem from="1523714996531" duration="728000" />
+      <workItem from="1523723387476" duration="1320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35369000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="733" y="23" width="1440" height="829" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28117648" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4729412" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="63" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/SuperGameViewIem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1516536718820" expanded="false" signature="6:186" ph="..." />
+            <marker date="1516536718820" expanded="true" signature="202:724" ph="{...}" />
+            <marker date="1516536718820" expanded="true" signature="262:722" ph="{...}" />
+            <marker date="1516536718820" expanded="true" signature="484:719" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/TargetMediator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/ViewWithModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Contexts/AppContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="67" column="40" lean-forward="false" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
+          <folding>
+            <marker date="1516536664431" expanded="false" signature="6:289" ph="..." />
+            <marker date="1516536664431" expanded="true" signature="329:2437" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="387:425" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="516:554" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="626:697" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="828:1012" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="1111:1277" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="1322:2435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Commands/DownloadimageByUrlCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="78" column="26" lean-forward="true" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/RoomViewItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Workers/IBackgroundWorker.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/scripts/strange/extensions/signal/impl/Signal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2038">
+          <caret line="132" column="17" lean-forward="false" selection-start-line="132" selection-start-column="17" selection-end-line="132" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../work/mobile/projects/social_classic/Assets/EngineEnot/Enot/Profiles/FunnyReelsProfile.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/examples/Assets/scripts/signalsproject/SignalsContext.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/examples/Assets/scripts/signalsproject/controller/StartCommand.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/examples/Assets/scripts/signalsproject/SignalsRoot.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Workers/RoomsListUpdateWorker.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/examples/Assets/scripts/justtests/view/TesterView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/scripts/strange/extensions/mediation/impl/View.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1774">
+          <caret line="126" column="27" lean-forward="false" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/JoinRoomView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="494" column="0" lean-forward="false" selection-start-line="494" selection-start-column="0" selection-end-line="494" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/scripts/strange/extensions/injector/impl/Injector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="314" column="0" lean-forward="false" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/scripts/strange/extensions/mediation/impl/Mediator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="52" column="28" lean-forward="false" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/config.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="61" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/BasePopupMediator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Commands/DownloadimageByUrlCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="78" column="26" lean-forward="false" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/ProgressBarWithText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Library/StrangeIoC/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Contexts/AppRoot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/AsyncImageMediator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/AsyncImageView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/BasePopup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/CustomSizeFitter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/PopupView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/PopupViewMediator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/TargetMediator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/ViewWithModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Signals/ImageLoadedSignal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Signals/Popups.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Signals/RoomsFetchedSignal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1516206228990" expanded="true" signature="103:110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Signals/ShowPopupSignal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1516206514836" expanded="true" signature="108:123" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/AsyncImageData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1516206314676" expanded="true" signature="70:143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Config.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1516286304306" expanded="false" signature="6:47" ph="..." />
+            <marker date="1516286304306" expanded="true" signature="110:199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Constants.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="54" lean-forward="false" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+          <folding>
+            <marker date="1516319210134" expanded="true" signature="45:167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/PopupPair.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1516208719881" expanded="false" signature="6:40" ph="..." />
+            <marker date="1516208719881" expanded="true" signature="106:179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Contexts/AppContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <marker date="1516536664431" expanded="false" signature="6:289" ph="..." />
+            <marker date="1516536664431" expanded="true" signature="329:2437" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="387:425" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="516:554" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="626:697" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="828:1012" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="1111:1277" ph="{...}" />
+            <marker date="1516536664431" expanded="true" signature="1322:2435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Signals/RoomsDataLoadedSignal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1516206539367" expanded="false" signature="6:116" ph="..." />
+            <marker date="1516206539367" expanded="true" signature="135:193" ph="{...}" />
+            <marker date="1516206539367" expanded="true" signature="182:191" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/RoomViewItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <marker date="1516536705319" expanded="false" signature="6:152" ph="..." />
+            <marker date="1516536705319" expanded="true" signature="169:1262" ph="{...}" />
+            <marker date="1516536705319" expanded="true" signature="227:1260" ph="{...}" />
+            <marker date="1516536705319" expanded="true" signature="502:527" ph="{...}" />
+            <marker date="1516536705319" expanded="true" signature="571:1078" ph="{...}" />
+            <marker date="1516536705319" expanded="true" signature="831:971" ph="{...}" />
+            <marker date="1516536705319" expanded="true" signature="1129:1257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/JoinRoomPopup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <marker date="1516536728813" expanded="false" signature="6:67" ph="..." />
+            <marker date="1516536728813" expanded="true" signature="83:389" ph="{...}" />
+            <marker date="1516536728813" expanded="true" signature="128:387" ph="{...}" />
+            <marker date="1516536728813" expanded="true" signature="257:381" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Services/CacheService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <marker date="1516323702699" expanded="false" signature="6:183" ph="..." />
+            <marker date="1516323702699" expanded="true" signature="215:366" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="416:2642" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="561:882" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="767:879" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="921:1020" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="977:1017" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1076:1311" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1225:1277" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1355:1423" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1456:1506" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1536:1709" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1573:1686" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1626:1682" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1749:1871" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1791:1835" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1916:2213" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1937:1968" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="1975:2148" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="2077:2142" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="2170:2208" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="2245:2640" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="2266:2551" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="2366:2406" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="2668:2688" ph="{...}" />
+            <marker date="1516323702699" expanded="true" signature="2712:2775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Commands/FetchRoomsCommands.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <marker date="1516322860934" expanded="false" signature="6:225" ph="..." />
+            <marker date="1516322860934" expanded="true" signature="245:1974" ph="{...}" />
+            <marker date="1516322860934" expanded="true" signature="249:397" ph="/// Load rooms data from server and move to Data model. Server url stored in config passed as command line argume ... " />
+            <marker date="1516322860934" expanded="true" signature="440:1972" ph="{...}" />
+            <marker date="1516322860934" expanded="true" signature="720:1969" ph="{...}" />
+            <marker date="1516322860934" expanded="true" signature="866:976" ph="{...}" />
+            <marker date="1516322860934" expanded="true" signature="984:1090" ph="{...}" />
+            <marker date="1516322860934" expanded="true" signature="1242:1723" ph="{...}" />
+            <marker date="1516322860934" expanded="true" signature="1314:1380" ph="{...}" />
+            <marker date="1516322860934" expanded="true" signature="1516:1584" ph="{...}" />
+            <marker date="1516322860934" expanded="true" signature="1761:1962" ph="{...}" />
+            <marker date="1516322860934" expanded="true" signature="1866:1917" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Signals/LoadImageService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1516210757511" expanded="false" signature="6:116" ph="..." />
+            <marker date="1516210757511" expanded="true" signature="135:232" ph="{...}" />
+            <marker date="1516210757511" expanded="true" signature="223:230" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/RoomsView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <marker date="1516537785995" expanded="false" signature="6:176" ph="..." />
+            <marker date="1516537785995" expanded="true" signature="192:2158" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="230:1803" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="600:696" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="724:789" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="830:1040" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="859:1036" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="1092:1800" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="1232:1796" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="1264:1521" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="1548:1791" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="1864:2156" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="2023:2083" ph="{...}" />
+            <marker date="1516537785995" expanded="true" signature="2115:2153" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/View/SuperGameViewIem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="56" lean-forward="false" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+          <folding>
+            <marker date="1516536718820" expanded="false" signature="6:186" ph="..." />
+            <marker date="1516536718820" expanded="true" signature="202:724" ph="{...}" />
+            <marker date="1516536718820" expanded="true" signature="262:722" ph="{...}" />
+            <marker date="1516536718820" expanded="true" signature="484:719" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/Rooms.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <marker date="1516312687484" expanded="true" signature="49:1518" ph="{...}" />
+            <marker date="1516312687484" expanded="true" signature="75:111" ph="{...}" />
+            <marker date="1516312687484" expanded="true" signature="165:333" ph="{...}" />
+            <marker date="1516312687484" expanded="true" signature="382:489" ph="{...}" />
+            <marker date="1516312687484" expanded="true" signature="529:850" ph="{...}" />
+            <marker date="1516312687484" expanded="true" signature="855:915" ph="[...]" />
+            <marker date="1516312687484" expanded="true" signature="947:956" ph="{...}" />
+            <marker date="1516312687484" expanded="true" signature="1016:1214" ph="{...}" />
+            <marker date="1516312687484" expanded="true" signature="1264:1516" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
